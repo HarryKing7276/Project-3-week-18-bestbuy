@@ -1,0 +1,4 @@
+crudtest\StoreCRUDTest.class
+crudtest\ProductCRUDTest.class
+testbase\ProductTestBase.class
+testbase\StoreTestBase.class
